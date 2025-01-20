@@ -6,7 +6,7 @@ This is a list of popular addresses and assets. We are open to pull request but 
 
 Short list. Full in [accounts.json](accounts.json)
 
-Name           | Address
+Name ADIHCI          | AddressUQA3Pu3h_x6RVtMe5xkUP2EU7EagwptOyyMUHZV05CZH2kxp
 ---------------|-----------
 [CAT Services](https://tonviewer.com/0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802) | UQASUWJ-7B68BFrLv0oV9qPwcTzCVs-xz4HAwTeA6jU6w8cA
 [TON Foundation (OLD)](https://tonviewer.com/0:83dfd552e63729b472fcbcc8c45ebcc6691702558b68ec7527e1ba403a0f31a8) | UQASUWJ-7B68BFrLv0oV9qPwcTzCVs-xz4HAwTeA6jU6w8cA
